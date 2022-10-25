@@ -11,7 +11,7 @@ My current research interests are 3D Reconstruction and Neural Rendering. My ong
 <br /><br />
 ## Publications
 
-<img align="left" src="/assets/images/website-thumbnail.png" width="300">
+<img align="left" src="/assets/images/website-thumbnail.png" width="100">
 
 ### Totems: Physical Objects for Verifying Visual Integrity
 **Jingwei Ma**, Lucy Chai, Minyoung Huh, Tongzhou Wang, <br />
