@@ -4,14 +4,14 @@ layout: default
 
 
 ## About me
-I'm a first-year Ph.D. student at the [UW Graphics and Imaging Laboratory (GRAIL)](https://grail.cs.washington.edu/) working with Prof. [Ira Kemelmacher-Shlizerman](https://www.irakemelmacher.com/), Prof. [Steve Seitz](https://www.smseitz.com/) and Prof. [Brian Curless](https://homes.cs.washington.edu/~curless/). Previously, I studied computer science at MIT and had the honor to work with Prof. [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) and Prof. [Phillip Isola](http://web.mit.edu/phillipi/).
+I'm a second-year Ph.D. student at the [UW Graphics and Imaging Laboratory (GRAIL)](https://grail.cs.washington.edu/) working with Prof. [Ira Kemelmacher-Shlizerman](https://www.irakemelmacher.com/), Prof. [Steve Seitz](https://www.smseitz.com/) and Prof. [Brian Curless](https://homes.cs.washington.edu/~curless/). Previously, I studied computer science at MIT and had the honor to work with Prof. [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) and Prof. [Phillip Isola](http://web.mit.edu/phillipi/).
 
 My current research interests are 3D Reconstruction and Neural Rendering. My ongoing and past projects involve Neural Rendering, Image Forensics, Image Synthesis, and 3D Reconstruction.
 
 ## Publications
 ![Under construction](/assets/images/meme1.jpg)
 
-## More photos
+## Photos
 [Photos of me and my photography](./photos.html).
 
 
