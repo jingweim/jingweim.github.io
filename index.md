@@ -8,12 +8,15 @@ I'm a 2nd-year Ph.D. student at the [UW Graphics and Imaging Laboratory (GRAIL)]
 
 My current research interests are 3D Reconstruction and Neural Rendering. My ongoing and past projects involve Neural Rendering, Image Forensics, Image Synthesis, and 3D Reconstruction.
 
+<br /><br />
 ## Publications
 
 ### Totems: Physical Objects for Verifying Visual Integrity
 **Jingwei Ma**, Lucy Chai, Minyoung Huh, Tongzhou Wang, Ser-Nam Lim, Phillip Isola, Antonio Torralba<br />
 ECCV, 2022 | [Project Page](https://jingweim.github.io/totems/) | [arXiv](https://arxiv.org/abs/2209.13032) | [Paper](https://arxiv.org/pdf/2209.13032.pdf) | [Code](https://github.com/jingweim/totems)<br />
 <!-- ![Under construction](/assets/images/meme1.jpg)-->
+
+<br /><br />
 ## Photos
 [Photos of me and my photography](./photos.html).
 
