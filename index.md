@@ -10,19 +10,12 @@ My current research interests are 3D Reconstruction and Neural Rendering. My ong
 
 <br /><br />
 ## Publications
-<div>
-  
 <img align="left" src="/assets/images/totem_thumbnail.gif" width="150">
-  
-<div />
-  
-<div>
-  
+
 ### Totems: Physical Objects for Verifying Visual Integrity
 **Jingwei Ma**, Lucy Chai, Minyoung Huh, Tongzhou Wang, Ser-Nam Lim, Phillip Isola, Antonio Torralba<br /><br />
 ECCV, 2022 | [Project Page](https://jingweim.github.io/totems/) | [arXiv](https://arxiv.org/abs/2209.13032) | [Paper](https://arxiv.org/pdf/2209.13032.pdf) | [Code](https://github.com/jingweim/totems)<br />
-  
-<div />
+
 <!-- ![Under construction](/assets/images/meme1.jpg)-->
 
 <br /><br />
